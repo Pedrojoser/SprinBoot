@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="crudProgrmacion">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/crudProgrmacion.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
